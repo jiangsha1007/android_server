@@ -1,4 +1,0 @@
-android_server
-==============
-
-server
